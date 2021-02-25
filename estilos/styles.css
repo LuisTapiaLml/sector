@@ -56,7 +56,7 @@ li,ul{
 }
 
 .hero{
-    background: url("../img/MG.png")  no-repeat left top ,  linear-gradient(  #bb1717 , #a11111 );
+    background: url("../img/MG.jpg")  no-repeat left top;
     background-position: center;
     background-size: cover;
     height: 150vh;
